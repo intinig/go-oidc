@@ -1,4 +1,4 @@
-# intinig fork
+# intinig's fork
 
 I use go-oidc in a work project, and I need it to return meaningful and not opaque errors. A PR for that wouldn't be accepted by project owners (https://github.com/coreos/go-oidc/pull/292) so I have to use this fork.
 
