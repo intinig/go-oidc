@@ -1,3 +1,9 @@
+# intinig fork
+
+I use go-oidc in a work project, and I need it to return meaningful and not opaque errors. A PR for that wouldn't be accepted by project owners (https://github.com/coreos/go-oidc/pull/292) so I have to use this fork.
+
+Here's to hoping go-oidc eventually returns meaningful errors.
+
 # go-oidc
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/coreos/go-oidc/v3/oidc.svg)](https://pkg.go.dev/github.com/coreos/go-oidc/v3/oidc)
